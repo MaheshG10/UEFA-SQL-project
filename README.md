@@ -34,4 +34,4 @@ The datasets can be accessed from the following link:
 3. Run the provided SQL queries to get insights.
 
 ## Author
-Created by [K Mahesh] as part of a data analytics portfolio.
+Created by K Mahesh as part of a data analytics portfolio.
